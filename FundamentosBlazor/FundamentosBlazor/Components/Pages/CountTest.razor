@@ -1,0 +1,14 @@
+﻿@page "/Test/{Categoria?}/{Id:int?}"
+
+<h3>CountTest</h3>
+<h4>Parametro: @Id</h4>
+<h4>Categoria: @Categoria</h4>
+
+@code 
+{
+	[Parameter]
+	public int? Id { get; set; }
+
+	[Parameter]
+	public string? Categoria { get; set; }
+}
