@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\pages\\counttest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\counttest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\pages\\manejoerrores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\manejoerrores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ManejoErrores.razor",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T23:52:31.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T23:19:57.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T23:20:44.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountTest.razor",
-              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CountTest.razor",
-              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\CountTest.razor",
-              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\CountTest.razor",
-              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\CountTest.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T23:18:30.071Z",
+              "WhenOpened": "2024-10-23T17:03:08.319Z",
               "EditorCaption": ""
             }
           ]

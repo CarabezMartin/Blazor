@@ -18,42 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jorgeav\Documents\Blazor_Udemy\FundamentosBlazor\FundamentosBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/ManejoErrores.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYW5lam9FcnJvcmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/CountTest.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudFRlc3QucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-qrmc6eg9tx
-
-[C:/Users/jorgeav/Documents/Blazor_Udemy/FundamentosBlazor/FundamentosBlazor/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-ttyok52htj
