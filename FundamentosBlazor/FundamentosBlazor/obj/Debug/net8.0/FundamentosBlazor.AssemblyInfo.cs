@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e096bffb98f639a5da44af030ee46e23782cc8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

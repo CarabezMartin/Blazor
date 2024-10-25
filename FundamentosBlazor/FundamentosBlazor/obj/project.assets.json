@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\FundamentosBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\FundamentosBlazor.csproj",
       "projectName": "FundamentosBlazor",
-      "projectPath": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\FundamentosBlazor.csproj",
+      "projectPath": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\FundamentosBlazor.csproj",
       "packagesPath": "C:\\Users\\jorgeav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\",
+      "outputPath": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorgeav\\AppData\\Roaming\\NuGet\\NuGet.Config",

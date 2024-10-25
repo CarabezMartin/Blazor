@@ -1,0 +1,11 @@
+﻿@page "/inyeccion"
+@using FundamentosBlazor.Repositorio.Interfaces
+@inject IMyService miServicio
+
+<h3>InyeccionDependencia</h3>
+
+<p>@miServicio.GetMessage()</p>
+
+@code {
+
+}

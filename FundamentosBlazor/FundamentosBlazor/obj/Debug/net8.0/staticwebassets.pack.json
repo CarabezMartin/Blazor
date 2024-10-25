@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css",
+      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css",
       "PackagePath": "staticwebassets\\FundamentosBlazor.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\app.css",
+      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

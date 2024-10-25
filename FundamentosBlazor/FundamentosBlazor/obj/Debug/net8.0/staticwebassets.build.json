@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B9RdQNx6YQlpD/oBBQOkT/TpNuOTLlnRG02nOIOCtGw=",
+  "Hash": "5D9h0iyCKxnr2sDFhIRI0ZaAsLUVoug4xjatfjCHxZ4=",
   "Source": "FundamentosBlazor",
   "BasePath": "_content/FundamentosBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FundamentosBlazor\\wwwroot",
       "Source": "FundamentosBlazor",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
       "BasePath": "_content/FundamentosBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FundamentosBlazor.styles.css",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FundamentosBlazor.styles.css",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "FundamentosBlazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FundamentosBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FundamentosBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "FundamentosBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FundamentosBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\app.css",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\favicon.png",
       "SourceId": "FundamentosBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\wwwroot\\",
       "BasePath": "_content/FundamentosBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

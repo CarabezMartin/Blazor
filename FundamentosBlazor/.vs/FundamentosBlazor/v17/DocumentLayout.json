@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\",
+  "WorkspaceRootPath": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor_udemy\\fundamentosblazor\\fundamentosblazor\\components\\pages\\manejoerrores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazor\\fundamentosblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\inyecciondependencia.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\inyecciondependencia.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazor\\fundamentosblazor\\repositorio\\interfaces\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\repositorio\\interfaces\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazor\\fundamentosblazor\\repositorio\\interfaces\\imyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\repositorio\\interfaces\\imyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazor\\fundamentosblazor\\components\\pages\\manejoerrores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF154E55-9F53-4297-83FD-41D83D26AEF0}|FundamentosBlazor\\FundamentosBlazor.csproj|solutionrelative:fundamentosblazor\\components\\pages\\manejoerrores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -14,20 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Repositorio\\Interfaces\\MyService.cs",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Repositorio\\Interfaces\\MyService.cs",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Repositorio\\Interfaces\\MyService.cs",
+              "RelativeToolTip": "FundamentosBlazor\\Repositorio\\Interfaces\\MyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:21:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMyService.cs",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Repositorio\\Interfaces\\IMyService.cs",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Repositorio\\Interfaces\\IMyService.cs",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Repositorio\\Interfaces\\IMyService.cs",
+              "RelativeToolTip": "FundamentosBlazor\\Repositorio\\Interfaces\\IMyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:19:52.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InyeccionDependencia.razor",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\InyeccionDependencia.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\InyeccionDependencia.razor",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\InyeccionDependencia.razor",
+              "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\InyeccionDependencia.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T23:58:15.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "FundamentosBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Program.cs",
+              "RelativeToolTip": "FundamentosBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:47:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ManejoErrores.razor",
-              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
               "RelativeDocumentMoniker": "FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
-              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor_Udemy\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazor\\FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
               "RelativeToolTip": "FundamentosBlazor\\Components\\Pages\\ManejoErrores.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T17:03:08.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T17:03:08.319Z"
             }
           ]
         }
