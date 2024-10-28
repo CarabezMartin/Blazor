@@ -6,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+//Servicio inyectado-Hector Camacho
 builder.Services.AddSingleton<IMyService, MyService>();
 
 var app = builder.Build();

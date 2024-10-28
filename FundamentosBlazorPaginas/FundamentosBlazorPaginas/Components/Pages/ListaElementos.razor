@@ -1,0 +1,17 @@
+﻿@page "/Lista"
+
+<h3>Lista Elementos</h3>
+
+<ul>
+	@foreach (var elemento in elementos)
+	{
+		<li>
+			@elemento
+		</li>
+	}
+</ul>
+
+<input type="text" @bind="nuevoElemento" placeholder="Nuevo Elemento..." />
+<button @onclick="AgregarElemento">Agregar</button>
+
+

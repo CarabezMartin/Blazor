@@ -1,0 +1,16 @@
+﻿@* @page "/contador" *@
+
+<h3>OtroContador</h3>
+
+<button @onclick = "ContadorClick">Has presionado el boton: @contador</button>
+
+@code
+{
+	private int contador;
+
+	public void ContadorClick()
+	{
+		contador += 1;
+	}
+
+}
