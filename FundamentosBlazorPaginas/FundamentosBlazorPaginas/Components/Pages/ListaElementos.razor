@@ -2,16 +2,16 @@
 
 <h3>Lista Elementos</h3>
 
-<ul>
+<ul class = "list-group">
 	@foreach (var elemento in elementos)
 	{
-		<li>
+		<li class = "list-group-item">
 			@elemento
 		</li>
 	}
-</ul>
+</ul><br />
 
-<input type="text" @bind="nuevoElemento" placeholder="Nuevo Elemento..." />
-<button @onclick="AgregarElemento">Agregar</button>
+<input type="text" @bind="nuevoElemento" placeholder="Nuevo Elemento..." class = "input-group"/><br />
+<button @onclick="AgregarElemento" class = "btn btn-primary">Agregar</button>
 
 
