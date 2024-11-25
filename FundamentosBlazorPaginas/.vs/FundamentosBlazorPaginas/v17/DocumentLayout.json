@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9ADAA0CD-373C-4456-9A9B-5A5EB35DF477}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\sintaxisrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ADAA0CD-373C-4456-9A9B-5A5EB35DF477}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\sintaxisrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ADAA0CD-373C-4456-9A9B-5A5EB35DF477}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazorpaginas\\fundamentosblazorpaginas\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9ADAA0CD-373C-4456-9A9B-5A5EB35DF477}|FundamentosBlazorPaginas\\FundamentosBlazorPaginas.csproj|solutionrelative:fundamentosblazorpaginas\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SintaxisRazor.razor",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\SintaxisRazor.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T23:37:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ListaElementos.razor.cs",
               "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor.cs",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor.cs",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListaElementos.razor",
               "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "FundamentosBlazorPaginas\\Components\\Pages\\ListaElementos.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T23:00:30.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T23:00:30.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OtroContador.razor",
               "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorPaginas\\FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",
               "RelativeDocumentMoniker": "FundamentosBlazorPaginas\\Components\\Pages\\OtroContador.razor",

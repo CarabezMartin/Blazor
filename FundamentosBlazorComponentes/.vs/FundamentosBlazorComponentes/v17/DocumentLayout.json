@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorComponentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D13710C6-0532-4403-AFB7-B6988EDA8B5E}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|c:\\users\\jorgeav\\documents\\blazor\\fundamentosblazorcomponentes\\fundamentosblazorcomponentes\\components\\pages\\paginacomponentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13710C6-0532-4403-AFB7-B6988EDA8B5E}|FundamentosBlazorComponentes\\FundamentosBlazorComponentes.csproj|solutionrelative:fundamentosblazorcomponentes\\components\\pages\\paginacomponentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaComponentes.razor",
+              "DocumentMoniker": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "RelativeDocumentMoniker": "FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "ToolTip": "C:\\Users\\jorgeav\\Documents\\Blazor\\FundamentosBlazorComponentes\\FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "RelativeToolTip": "FundamentosBlazorComponentes\\Components\\Pages\\PaginaComponentes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T22:55:43.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

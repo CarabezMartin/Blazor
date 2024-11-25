@@ -6,4 +6,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Components\Pages\SintaxisRazor.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Pages\SintaxisRazor.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\Pages\SintaxisRazor.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Components\Pages\SintaxisRazor.razor" />
+  </ItemGroup>
+
 </Project>
